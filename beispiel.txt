@@ -1,0 +1,4 @@
+Name    Note Fach     Note  Fach
+Jutta   4    Biologie 1     Mathe
+Nadine  1    Biologie 2     Mathe
+Bernd   3    Biologie 3     Mathe
